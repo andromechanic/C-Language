@@ -31,18 +31,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f9ed64885e0d7d30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pre - Internship/GitHub.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -190,9 +178,9 @@
   },
   "active": "877ca8111d2c887c",
   "lastOpenFiles": [
-    "Pre - Internship/GitHub.md",
     "Pre - Internship/links.md",
     "Pre - Internship/C - Language.md",
+    "Pre - Internship/GitHub.md",
     "Text Memory.md",
     "Data Memory.md",
     "Untitled.canvas",
