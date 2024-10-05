@@ -14,3 +14,4 @@ int main()
 
 [[GitHub]]
 
+Testing automated script
