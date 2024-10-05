@@ -4,48 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9b37984d0870d35a",
-        "type": "tabs",
-        "dimension": 81.93979933110369,
-        "children": [
-          {
-            "id": "82c3363ccc1abae4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pre - Internship/C - Language.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "877ca8111d2c887c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pre - Internship/C - Language.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "97906dd42ef4d68a",
         "type": "tabs",
-        "dimension": 18.06020066889632,
         "children": [
           {
-            "id": "e6948d69d28f8811",
+            "id": "aaf1d8372d2a955a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Tokens/Constants.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -109,35 +80,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7cb9eadcfe387c30",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Pre - Internship/C - Language.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "e79cf78b3520d625",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Pre - Internship/C - Language.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "1cd49fa440fdc0f4",
             "type": "leaf",
             "state": {
@@ -149,21 +91,19 @@
             }
           },
           {
-            "id": "87cdf9b9366d96b5",
+            "id": "e6948d69d28f8811",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "Pre - Internship/C - Language.md"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,11 +116,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "877ca8111d2c887c",
+  "active": "0dd6ca820975de90",
   "lastOpenFiles": [
+    "C - Language.md",
+    "Tokens",
+    "Punctuation.md",
+    "Tokens/Special Symbols.md",
+    "Tokens/Operators.md",
+    "Tokens/Strings.md",
+    "Tokens/Keywords.md",
+    "Tokens/Constants.md",
+    "Tokens/Identifiers.md",
     "Gitpush.bat",
     "Pre - Internship/links.md",
-    "Pre - Internship/C - Language.md",
     "Pre - Internship/GitHub.md",
     "Text Memory.md",
     "Data Memory.md",
