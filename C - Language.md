@@ -25,3 +25,6 @@ Tokens are the smallest elements of a C program that the compiler interprets.
 4. **[[Strings]]**: Sequence of characters enclosed in double quotes (e.g., `"Hello"`).
 5. **[[Operators]]**: Symbols that perform operations (e.g., `+`, `-`, `*`, `/`).
 6. **[[Special Symbols]]**: Characters like `;`, `{}`, `[]`, `()`, `#` used for structure and control.
+
+
+......

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tokens/Constants.md",
+                "file": "C - Language.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,8 +116,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0dd6ca820975de90",
+  "active": "aaf1d8372d2a955a",
   "lastOpenFiles": [
+    "Tokens/Constants.md",
     "C - Language.md",
     "Tokens",
     "Punctuation.md",
@@ -125,7 +126,6 @@
     "Tokens/Operators.md",
     "Tokens/Strings.md",
     "Tokens/Keywords.md",
-    "Tokens/Constants.md",
     "Tokens/Identifiers.md",
     "Gitpush.bat",
     "Pre - Internship/links.md",
