@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "efad581a2c5dd054",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b37984d0870d35a",
+        "type": "tabs",
+        "dimension": 81.93979933110369,
+        "children": [
+          {
+            "id": "82c3363ccc1abae4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pre - Internship/C - Language.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "877ca8111d2c887c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pre - Internship/C - Language.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f9ed64885e0d7d30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pre - Internship/GitHub.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "97906dd42ef4d68a",
+        "type": "tabs",
+        "dimension": 18.06020066889632,
+        "children": [
+          {
+            "id": "e6948d69d28f8811",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3c2c00ab2a30547b",
+    "type": "split",
+    "children": [
+      {
+        "id": "75bcfeef4721a99e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0dd6ca820975de90",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ebdefc890bcc2185",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8c59b5dfce940c33",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "f39cadefe2729f6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "33dae180b17a0ab7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7cb9eadcfe387c30",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pre - Internship/C - Language.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e79cf78b3520d625",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pre - Internship/C - Language.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1cd49fa440fdc0f4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "87cdf9b9366d96b5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pre - Internship/C - Language.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "877ca8111d2c887c",
+  "lastOpenFiles": [
+    "Pre - Internship/GitHub.md",
+    "Pre - Internship/links.md",
+    "Pre - Internship/C - Language.md",
+    "Text Memory.md",
+    "Data Memory.md",
+    "Untitled.canvas",
+    "Pre - Internship",
+    "Welcome.md"
+  ]
+}
